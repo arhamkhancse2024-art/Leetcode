@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3665-twisted-mirror-path-count](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Binary Search
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/3665-twisted-mirror-path-count) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
