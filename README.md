@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1267-count-servers-that-communicate](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/2747-count-zero-request-servers) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
@@ -76,4 +78,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
