@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/arhamkhancse2024-art/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
